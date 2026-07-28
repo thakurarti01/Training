@@ -1,0 +1,15 @@
+C:\Users\artit\Desktop\Training\DAY_01\HealthCare\obj\Debug\net10.0\HealthCare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artit\Desktop\Training\DAY_01\HealthCare\obj\Debug\net10.0\HealthCare.AssemblyInfoInputs.cache
+C:\Users\artit\Desktop\Training\DAY_01\HealthCare\obj\Debug\net10.0\HealthCare.AssemblyInfo.cs
+C:\Users\artit\Desktop\Training\DAY_01\HealthCare\obj\Debug\net10.0\HealthCare.csproj.CoreCompileInputs.cache
+C:\Users\artit\Desktop\Training\DAY_01\HealthCare\obj\Debug\net10.0\HealthCare.sourcelink.json
+C:\Users\artit\Desktop\Training\DAY_01\HealthCare\bin\Debug\net10.0\HealthCare.exe
+C:\Users\artit\Desktop\Training\DAY_01\HealthCare\bin\Debug\net10.0\HealthCare.deps.json
+C:\Users\artit\Desktop\Training\DAY_01\HealthCare\bin\Debug\net10.0\HealthCare.runtimeconfig.json
+C:\Users\artit\Desktop\Training\DAY_01\HealthCare\bin\Debug\net10.0\HealthCare.dll
+C:\Users\artit\Desktop\Training\DAY_01\HealthCare\bin\Debug\net10.0\HealthCare.pdb
+C:\Users\artit\Desktop\Training\DAY_01\HealthCare\obj\Debug\net10.0\HealthCare.dll
+C:\Users\artit\Desktop\Training\DAY_01\HealthCare\obj\Debug\net10.0\refint\HealthCare.dll
+C:\Users\artit\Desktop\Training\DAY_01\HealthCare\obj\Debug\net10.0\HealthCare.pdb
+C:\Users\artit\Desktop\Training\DAY_01\HealthCare\obj\Debug\net10.0\HealthCare.genruntimeconfig.cache
+C:\Users\artit\Desktop\Training\DAY_01\HealthCare\obj\Debug\net10.0\ref\HealthCare.dll
