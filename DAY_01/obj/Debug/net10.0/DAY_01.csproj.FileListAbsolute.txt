@@ -12,3 +12,4 @@ C:\Users\artit\Desktop\TRAINING\DAY_01\obj\Debug\net10.0\refint\DAY_01.dll
 C:\Users\artit\Desktop\TRAINING\DAY_01\obj\Debug\net10.0\DAY_01.pdb
 C:\Users\artit\Desktop\TRAINING\DAY_01\obj\Debug\net10.0\DAY_01.genruntimeconfig.cache
 C:\Users\artit\Desktop\TRAINING\DAY_01\obj\Debug\net10.0\ref\DAY_01.dll
+C:\Users\artit\Desktop\Training\DAY_01\obj\Debug\net10.0\DAY_01.sourcelink.json
