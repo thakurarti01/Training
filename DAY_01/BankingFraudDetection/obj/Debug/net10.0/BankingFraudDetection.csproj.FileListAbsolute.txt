@@ -1,0 +1,15 @@
+C:\Users\artit\Desktop\Training\DAY_01\BankingFraudDetection\bin\Debug\net10.0\BankingFraudDetection.exe
+C:\Users\artit\Desktop\Training\DAY_01\BankingFraudDetection\bin\Debug\net10.0\BankingFraudDetection.deps.json
+C:\Users\artit\Desktop\Training\DAY_01\BankingFraudDetection\bin\Debug\net10.0\BankingFraudDetection.runtimeconfig.json
+C:\Users\artit\Desktop\Training\DAY_01\BankingFraudDetection\bin\Debug\net10.0\BankingFraudDetection.dll
+C:\Users\artit\Desktop\Training\DAY_01\BankingFraudDetection\bin\Debug\net10.0\BankingFraudDetection.pdb
+C:\Users\artit\Desktop\Training\DAY_01\BankingFraudDetection\obj\Debug\net10.0\BankingFraudDetection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artit\Desktop\Training\DAY_01\BankingFraudDetection\obj\Debug\net10.0\BankingFraudDetection.AssemblyInfoInputs.cache
+C:\Users\artit\Desktop\Training\DAY_01\BankingFraudDetection\obj\Debug\net10.0\BankingFraudDetection.AssemblyInfo.cs
+C:\Users\artit\Desktop\Training\DAY_01\BankingFraudDetection\obj\Debug\net10.0\BankingFraudDetection.csproj.CoreCompileInputs.cache
+C:\Users\artit\Desktop\Training\DAY_01\BankingFraudDetection\obj\Debug\net10.0\BankingFraudDetection.sourcelink.json
+C:\Users\artit\Desktop\Training\DAY_01\BankingFraudDetection\obj\Debug\net10.0\BankingFraudDetection.dll
+C:\Users\artit\Desktop\Training\DAY_01\BankingFraudDetection\obj\Debug\net10.0\refint\BankingFraudDetection.dll
+C:\Users\artit\Desktop\Training\DAY_01\BankingFraudDetection\obj\Debug\net10.0\BankingFraudDetection.pdb
+C:\Users\artit\Desktop\Training\DAY_01\BankingFraudDetection\obj\Debug\net10.0\BankingFraudDetection.genruntimeconfig.cache
+C:\Users\artit\Desktop\Training\DAY_01\BankingFraudDetection\obj\Debug\net10.0\ref\BankingFraudDetection.dll
