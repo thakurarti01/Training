@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\artit\\Desktop\\Training\\DAY_04\\Assessment\\CoursePrerequisite\\CoursePrerequisite.csproj": {}
+    "c:\\Users\\artit\\Desktop\\Training\\Assess_OrderManagement\\Assess_OrderManagement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\artit\\Desktop\\Training\\DAY_04\\Assessment\\CoursePrerequisite\\CoursePrerequisite.csproj": {
+    "c:\\Users\\artit\\Desktop\\Training\\Assess_OrderManagement\\Assess_OrderManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\artit\\Desktop\\Training\\DAY_04\\Assessment\\CoursePrerequisite\\CoursePrerequisite.csproj",
-        "projectName": "CoursePrerequisite",
-        "projectPath": "C:\\Users\\artit\\Desktop\\Training\\DAY_04\\Assessment\\CoursePrerequisite\\CoursePrerequisite.csproj",
+        "projectUniqueName": "c:\\Users\\artit\\Desktop\\Training\\Assess_OrderManagement\\Assess_OrderManagement.csproj",
+        "projectName": "Assess_OrderManagement",
+        "projectPath": "c:\\Users\\artit\\Desktop\\Training\\Assess_OrderManagement\\Assess_OrderManagement.csproj",
         "packagesPath": "C:\\Users\\artit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\artit\\Desktop\\Training\\DAY_04\\Assessment\\CoursePrerequisite\\obj\\",
+        "outputPath": "c:\\Users\\artit\\Desktop\\Training\\Assess_OrderManagement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

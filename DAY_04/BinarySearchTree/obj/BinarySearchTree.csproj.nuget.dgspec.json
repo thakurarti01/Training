@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\artit\\Desktop\\Training\\DAY_04\\BinarySearchTree\\BinarySearchTree.csproj": {}
+    "C:\\Users\\artit\\Desktop\\Training\\DAY_04\\BinarySearchTree\\BinarySearchTree.csproj": {}
   },
   "projects": {
-    "c:\\Users\\artit\\Desktop\\Training\\DAY_04\\BinarySearchTree\\BinarySearchTree.csproj": {
+    "C:\\Users\\artit\\Desktop\\Training\\DAY_04\\BinarySearchTree\\BinarySearchTree.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\artit\\Desktop\\Training\\DAY_04\\BinarySearchTree\\BinarySearchTree.csproj",
+        "projectUniqueName": "C:\\Users\\artit\\Desktop\\Training\\DAY_04\\BinarySearchTree\\BinarySearchTree.csproj",
         "projectName": "BinarySearchTree",
-        "projectPath": "c:\\Users\\artit\\Desktop\\Training\\DAY_04\\BinarySearchTree\\BinarySearchTree.csproj",
+        "projectPath": "C:\\Users\\artit\\Desktop\\Training\\DAY_04\\BinarySearchTree\\BinarySearchTree.csproj",
         "packagesPath": "C:\\Users\\artit\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\artit\\Desktop\\Training\\DAY_04\\BinarySearchTree\\obj\\",
+        "outputPath": "C:\\Users\\artit\\Desktop\\Training\\DAY_04\\BinarySearchTree\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
