@@ -6,7 +6,8 @@
 		// Array_Sum.Sum();
         // Array_Even.Even();
         // Array_Alternate.Alternate();
-        Array_Merge.Merge();
+        // Array_Merge.Merge();
+        String_Handling.Handle();
 
 	}
 }

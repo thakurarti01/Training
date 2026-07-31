@@ -1,0 +1,15 @@
+C:\Users\artit\Desktop\Training\DAY_03\CircularLinkedList\bin\Debug\net10.0\CircularLinkedList.exe
+C:\Users\artit\Desktop\Training\DAY_03\CircularLinkedList\bin\Debug\net10.0\CircularLinkedList.deps.json
+C:\Users\artit\Desktop\Training\DAY_03\CircularLinkedList\bin\Debug\net10.0\CircularLinkedList.runtimeconfig.json
+C:\Users\artit\Desktop\Training\DAY_03\CircularLinkedList\bin\Debug\net10.0\CircularLinkedList.dll
+C:\Users\artit\Desktop\Training\DAY_03\CircularLinkedList\bin\Debug\net10.0\CircularLinkedList.pdb
+C:\Users\artit\Desktop\Training\DAY_03\CircularLinkedList\obj\Debug\net10.0\CircularLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artit\Desktop\Training\DAY_03\CircularLinkedList\obj\Debug\net10.0\CircularLinkedList.AssemblyInfoInputs.cache
+C:\Users\artit\Desktop\Training\DAY_03\CircularLinkedList\obj\Debug\net10.0\CircularLinkedList.AssemblyInfo.cs
+C:\Users\artit\Desktop\Training\DAY_03\CircularLinkedList\obj\Debug\net10.0\CircularLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\artit\Desktop\Training\DAY_03\CircularLinkedList\obj\Debug\net10.0\CircularLinkedList.sourcelink.json
+C:\Users\artit\Desktop\Training\DAY_03\CircularLinkedList\obj\Debug\net10.0\CircularLinkedList.dll
+C:\Users\artit\Desktop\Training\DAY_03\CircularLinkedList\obj\Debug\net10.0\refint\CircularLinkedList.dll
+C:\Users\artit\Desktop\Training\DAY_03\CircularLinkedList\obj\Debug\net10.0\CircularLinkedList.pdb
+C:\Users\artit\Desktop\Training\DAY_03\CircularLinkedList\obj\Debug\net10.0\CircularLinkedList.genruntimeconfig.cache
+C:\Users\artit\Desktop\Training\DAY_03\CircularLinkedList\obj\Debug\net10.0\ref\CircularLinkedList.dll

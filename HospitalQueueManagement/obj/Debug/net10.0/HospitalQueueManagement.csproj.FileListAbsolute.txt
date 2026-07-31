@@ -1,0 +1,15 @@
+C:\Users\artit\Desktop\Training\HospitalQueueManagement\bin\Debug\net10.0\HospitalQueueManagement.exe
+C:\Users\artit\Desktop\Training\HospitalQueueManagement\bin\Debug\net10.0\HospitalQueueManagement.deps.json
+C:\Users\artit\Desktop\Training\HospitalQueueManagement\bin\Debug\net10.0\HospitalQueueManagement.runtimeconfig.json
+C:\Users\artit\Desktop\Training\HospitalQueueManagement\bin\Debug\net10.0\HospitalQueueManagement.dll
+C:\Users\artit\Desktop\Training\HospitalQueueManagement\bin\Debug\net10.0\HospitalQueueManagement.pdb
+C:\Users\artit\Desktop\Training\HospitalQueueManagement\obj\Debug\net10.0\HospitalQueueManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artit\Desktop\Training\HospitalQueueManagement\obj\Debug\net10.0\HospitalQueueManagement.AssemblyInfoInputs.cache
+C:\Users\artit\Desktop\Training\HospitalQueueManagement\obj\Debug\net10.0\HospitalQueueManagement.AssemblyInfo.cs
+C:\Users\artit\Desktop\Training\HospitalQueueManagement\obj\Debug\net10.0\HospitalQueueManagement.csproj.CoreCompileInputs.cache
+C:\Users\artit\Desktop\Training\HospitalQueueManagement\obj\Debug\net10.0\HospitalQueueManagement.sourcelink.json
+C:\Users\artit\Desktop\Training\HospitalQueueManagement\obj\Debug\net10.0\HospitalQueueManagement.dll
+C:\Users\artit\Desktop\Training\HospitalQueueManagement\obj\Debug\net10.0\refint\HospitalQueueManagement.dll
+C:\Users\artit\Desktop\Training\HospitalQueueManagement\obj\Debug\net10.0\HospitalQueueManagement.pdb
+C:\Users\artit\Desktop\Training\HospitalQueueManagement\obj\Debug\net10.0\HospitalQueueManagement.genruntimeconfig.cache
+C:\Users\artit\Desktop\Training\HospitalQueueManagement\obj\Debug\net10.0\ref\HospitalQueueManagement.dll

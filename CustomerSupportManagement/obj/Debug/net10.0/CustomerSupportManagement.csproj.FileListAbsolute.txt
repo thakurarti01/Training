@@ -1,0 +1,15 @@
+C:\Users\artit\Desktop\Training\CustomerSupportManagement\bin\Debug\net10.0\CustomerSupportManagement.exe
+C:\Users\artit\Desktop\Training\CustomerSupportManagement\bin\Debug\net10.0\CustomerSupportManagement.deps.json
+C:\Users\artit\Desktop\Training\CustomerSupportManagement\bin\Debug\net10.0\CustomerSupportManagement.runtimeconfig.json
+C:\Users\artit\Desktop\Training\CustomerSupportManagement\bin\Debug\net10.0\CustomerSupportManagement.dll
+C:\Users\artit\Desktop\Training\CustomerSupportManagement\bin\Debug\net10.0\CustomerSupportManagement.pdb
+C:\Users\artit\Desktop\Training\CustomerSupportManagement\obj\Debug\net10.0\CustomerSupportManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artit\Desktop\Training\CustomerSupportManagement\obj\Debug\net10.0\CustomerSupportManagement.AssemblyInfoInputs.cache
+C:\Users\artit\Desktop\Training\CustomerSupportManagement\obj\Debug\net10.0\CustomerSupportManagement.AssemblyInfo.cs
+C:\Users\artit\Desktop\Training\CustomerSupportManagement\obj\Debug\net10.0\CustomerSupportManagement.csproj.CoreCompileInputs.cache
+C:\Users\artit\Desktop\Training\CustomerSupportManagement\obj\Debug\net10.0\CustomerSupportManagement.sourcelink.json
+C:\Users\artit\Desktop\Training\CustomerSupportManagement\obj\Debug\net10.0\CustomerSupportManagement.dll
+C:\Users\artit\Desktop\Training\CustomerSupportManagement\obj\Debug\net10.0\refint\CustomerSupportManagement.dll
+C:\Users\artit\Desktop\Training\CustomerSupportManagement\obj\Debug\net10.0\CustomerSupportManagement.pdb
+C:\Users\artit\Desktop\Training\CustomerSupportManagement\obj\Debug\net10.0\CustomerSupportManagement.genruntimeconfig.cache
+C:\Users\artit\Desktop\Training\CustomerSupportManagement\obj\Debug\net10.0\ref\CustomerSupportManagement.dll

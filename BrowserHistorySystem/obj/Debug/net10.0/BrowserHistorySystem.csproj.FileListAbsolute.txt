@@ -1,0 +1,15 @@
+C:\Users\artit\Desktop\Training\BrowserHistorySystem\bin\Debug\net10.0\BrowserHistorySystem.exe
+C:\Users\artit\Desktop\Training\BrowserHistorySystem\bin\Debug\net10.0\BrowserHistorySystem.deps.json
+C:\Users\artit\Desktop\Training\BrowserHistorySystem\bin\Debug\net10.0\BrowserHistorySystem.runtimeconfig.json
+C:\Users\artit\Desktop\Training\BrowserHistorySystem\bin\Debug\net10.0\BrowserHistorySystem.dll
+C:\Users\artit\Desktop\Training\BrowserHistorySystem\bin\Debug\net10.0\BrowserHistorySystem.pdb
+C:\Users\artit\Desktop\Training\BrowserHistorySystem\obj\Debug\net10.0\BrowserHistorySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artit\Desktop\Training\BrowserHistorySystem\obj\Debug\net10.0\BrowserHistorySystem.AssemblyInfoInputs.cache
+C:\Users\artit\Desktop\Training\BrowserHistorySystem\obj\Debug\net10.0\BrowserHistorySystem.AssemblyInfo.cs
+C:\Users\artit\Desktop\Training\BrowserHistorySystem\obj\Debug\net10.0\BrowserHistorySystem.csproj.CoreCompileInputs.cache
+C:\Users\artit\Desktop\Training\BrowserHistorySystem\obj\Debug\net10.0\BrowserHistorySystem.sourcelink.json
+C:\Users\artit\Desktop\Training\BrowserHistorySystem\obj\Debug\net10.0\BrowserHistorySystem.dll
+C:\Users\artit\Desktop\Training\BrowserHistorySystem\obj\Debug\net10.0\refint\BrowserHistorySystem.dll
+C:\Users\artit\Desktop\Training\BrowserHistorySystem\obj\Debug\net10.0\BrowserHistorySystem.pdb
+C:\Users\artit\Desktop\Training\BrowserHistorySystem\obj\Debug\net10.0\BrowserHistorySystem.genruntimeconfig.cache
+C:\Users\artit\Desktop\Training\BrowserHistorySystem\obj\Debug\net10.0\ref\BrowserHistorySystem.dll

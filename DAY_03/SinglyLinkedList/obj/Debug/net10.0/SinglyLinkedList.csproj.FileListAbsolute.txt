@@ -1,0 +1,15 @@
+C:\Users\artit\Desktop\Training\DAY_03\SinglyLinkedList\bin\Debug\net10.0\SinglyLinkedList.exe
+C:\Users\artit\Desktop\Training\DAY_03\SinglyLinkedList\bin\Debug\net10.0\SinglyLinkedList.deps.json
+C:\Users\artit\Desktop\Training\DAY_03\SinglyLinkedList\bin\Debug\net10.0\SinglyLinkedList.runtimeconfig.json
+C:\Users\artit\Desktop\Training\DAY_03\SinglyLinkedList\bin\Debug\net10.0\SinglyLinkedList.dll
+C:\Users\artit\Desktop\Training\DAY_03\SinglyLinkedList\bin\Debug\net10.0\SinglyLinkedList.pdb
+C:\Users\artit\Desktop\Training\DAY_03\SinglyLinkedList\obj\Debug\net10.0\SinglyLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artit\Desktop\Training\DAY_03\SinglyLinkedList\obj\Debug\net10.0\SinglyLinkedList.AssemblyInfoInputs.cache
+C:\Users\artit\Desktop\Training\DAY_03\SinglyLinkedList\obj\Debug\net10.0\SinglyLinkedList.AssemblyInfo.cs
+C:\Users\artit\Desktop\Training\DAY_03\SinglyLinkedList\obj\Debug\net10.0\SinglyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\artit\Desktop\Training\DAY_03\SinglyLinkedList\obj\Debug\net10.0\SinglyLinkedList.sourcelink.json
+C:\Users\artit\Desktop\Training\DAY_03\SinglyLinkedList\obj\Debug\net10.0\SinglyLinkedList.dll
+C:\Users\artit\Desktop\Training\DAY_03\SinglyLinkedList\obj\Debug\net10.0\refint\SinglyLinkedList.dll
+C:\Users\artit\Desktop\Training\DAY_03\SinglyLinkedList\obj\Debug\net10.0\SinglyLinkedList.pdb
+C:\Users\artit\Desktop\Training\DAY_03\SinglyLinkedList\obj\Debug\net10.0\SinglyLinkedList.genruntimeconfig.cache
+C:\Users\artit\Desktop\Training\DAY_03\SinglyLinkedList\obj\Debug\net10.0\ref\SinglyLinkedList.dll

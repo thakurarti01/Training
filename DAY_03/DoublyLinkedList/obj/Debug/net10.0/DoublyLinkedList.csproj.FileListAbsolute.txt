@@ -1,0 +1,15 @@
+C:\Users\artit\Desktop\Training\DAY_03\DoublyLinkedList\obj\Debug\net10.0\DoublyLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artit\Desktop\Training\DAY_03\DoublyLinkedList\obj\Debug\net10.0\DoublyLinkedList.AssemblyInfoInputs.cache
+C:\Users\artit\Desktop\Training\DAY_03\DoublyLinkedList\obj\Debug\net10.0\DoublyLinkedList.AssemblyInfo.cs
+C:\Users\artit\Desktop\Training\DAY_03\DoublyLinkedList\obj\Debug\net10.0\DoublyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\artit\Desktop\Training\DAY_03\DoublyLinkedList\obj\Debug\net10.0\DoublyLinkedList.sourcelink.json
+C:\Users\artit\Desktop\Training\DAY_03\DoublyLinkedList\bin\Debug\net10.0\DoublyLinkedList.exe
+C:\Users\artit\Desktop\Training\DAY_03\DoublyLinkedList\bin\Debug\net10.0\DoublyLinkedList.deps.json
+C:\Users\artit\Desktop\Training\DAY_03\DoublyLinkedList\bin\Debug\net10.0\DoublyLinkedList.runtimeconfig.json
+C:\Users\artit\Desktop\Training\DAY_03\DoublyLinkedList\bin\Debug\net10.0\DoublyLinkedList.dll
+C:\Users\artit\Desktop\Training\DAY_03\DoublyLinkedList\bin\Debug\net10.0\DoublyLinkedList.pdb
+C:\Users\artit\Desktop\Training\DAY_03\DoublyLinkedList\obj\Debug\net10.0\DoublyLinkedList.dll
+C:\Users\artit\Desktop\Training\DAY_03\DoublyLinkedList\obj\Debug\net10.0\refint\DoublyLinkedList.dll
+C:\Users\artit\Desktop\Training\DAY_03\DoublyLinkedList\obj\Debug\net10.0\DoublyLinkedList.pdb
+C:\Users\artit\Desktop\Training\DAY_03\DoublyLinkedList\obj\Debug\net10.0\DoublyLinkedList.genruntimeconfig.cache
+C:\Users\artit\Desktop\Training\DAY_03\DoublyLinkedList\obj\Debug\net10.0\ref\DoublyLinkedList.dll
