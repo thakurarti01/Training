@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\artit\\Desktop\\Training\\Assess_OrderManagement\\Assess_OrderManagement.csproj": {}
+    "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Array_DS\\Array_DS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\artit\\Desktop\\Training\\Assess_OrderManagement\\Assess_OrderManagement.csproj": {
+    "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Array_DS\\Array_DS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\artit\\Desktop\\Training\\Assess_OrderManagement\\Assess_OrderManagement.csproj",
-        "projectName": "Assess_OrderManagement",
-        "projectPath": "C:\\Users\\artit\\Desktop\\Training\\Assess_OrderManagement\\Assess_OrderManagement.csproj",
+        "projectUniqueName": "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Array_DS\\Array_DS.csproj",
+        "projectName": "Array_DS",
+        "projectPath": "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Array_DS\\Array_DS.csproj",
         "packagesPath": "C:\\Users\\artit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\artit\\Desktop\\Training\\Assess_OrderManagement\\obj\\",
+        "outputPath": "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Array_DS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
