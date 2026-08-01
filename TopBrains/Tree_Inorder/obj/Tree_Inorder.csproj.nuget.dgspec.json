@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\Array_DS\\Array_DS.csproj": {}
+    "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Tree_Inorder\\Tree_Inorder.csproj": {}
   },
   "projects": {
-    "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\Array_DS\\Array_DS.csproj": {
+    "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Tree_Inorder\\Tree_Inorder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\Array_DS\\Array_DS.csproj",
-        "projectName": "Array_DS",
-        "projectPath": "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\Array_DS\\Array_DS.csproj",
+        "projectUniqueName": "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Tree_Inorder\\Tree_Inorder.csproj",
+        "projectName": "Tree_Inorder",
+        "projectPath": "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Tree_Inorder\\Tree_Inorder.csproj",
         "packagesPath": "C:\\Users\\artit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\Array_DS\\obj\\",
+        "outputPath": "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Tree_Inorder\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
