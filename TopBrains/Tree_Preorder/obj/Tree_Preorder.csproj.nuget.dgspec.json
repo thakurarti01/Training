@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Tree_Preorder\\Tree_Preorder.csproj": {}
+    "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\Tree_Preorder\\Tree_Preorder.csproj": {}
   },
   "projects": {
-    "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Tree_Preorder\\Tree_Preorder.csproj": {
+    "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\Tree_Preorder\\Tree_Preorder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Tree_Preorder\\Tree_Preorder.csproj",
+        "projectUniqueName": "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\Tree_Preorder\\Tree_Preorder.csproj",
         "projectName": "Tree_Preorder",
-        "projectPath": "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Tree_Preorder\\Tree_Preorder.csproj",
+        "projectPath": "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\Tree_Preorder\\Tree_Preorder.csproj",
         "packagesPath": "C:\\Users\\artit\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Tree_Preorder\\obj\\",
+        "outputPath": "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\Tree_Preorder\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

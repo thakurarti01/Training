@@ -1,0 +1,15 @@
+C:\Users\artit\Desktop\Training\TopBrains\Node_at_Head\bin\Debug\net10.0\Node_at_Head.exe
+C:\Users\artit\Desktop\Training\TopBrains\Node_at_Head\bin\Debug\net10.0\Node_at_Head.deps.json
+C:\Users\artit\Desktop\Training\TopBrains\Node_at_Head\bin\Debug\net10.0\Node_at_Head.runtimeconfig.json
+C:\Users\artit\Desktop\Training\TopBrains\Node_at_Head\bin\Debug\net10.0\Node_at_Head.dll
+C:\Users\artit\Desktop\Training\TopBrains\Node_at_Head\bin\Debug\net10.0\Node_at_Head.pdb
+C:\Users\artit\Desktop\Training\TopBrains\Node_at_Head\obj\Debug\net10.0\Node_at_Head.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artit\Desktop\Training\TopBrains\Node_at_Head\obj\Debug\net10.0\Node_at_Head.AssemblyInfoInputs.cache
+C:\Users\artit\Desktop\Training\TopBrains\Node_at_Head\obj\Debug\net10.0\Node_at_Head.AssemblyInfo.cs
+C:\Users\artit\Desktop\Training\TopBrains\Node_at_Head\obj\Debug\net10.0\Node_at_Head.csproj.CoreCompileInputs.cache
+C:\Users\artit\Desktop\Training\TopBrains\Node_at_Head\obj\Debug\net10.0\Node_at_Head.sourcelink.json
+C:\Users\artit\Desktop\Training\TopBrains\Node_at_Head\obj\Debug\net10.0\Node_at_Head.dll
+C:\Users\artit\Desktop\Training\TopBrains\Node_at_Head\obj\Debug\net10.0\refint\Node_at_Head.dll
+C:\Users\artit\Desktop\Training\TopBrains\Node_at_Head\obj\Debug\net10.0\Node_at_Head.pdb
+C:\Users\artit\Desktop\Training\TopBrains\Node_at_Head\obj\Debug\net10.0\Node_at_Head.genruntimeconfig.cache
+C:\Users\artit\Desktop\Training\TopBrains\Node_at_Head\obj\Debug\net10.0\ref\Node_at_Head.dll

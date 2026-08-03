@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Tree_Inorder\\Tree_Inorder.csproj": {}
+    "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\Tree_Inorder\\Tree_Inorder.csproj": {}
   },
   "projects": {
-    "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Tree_Inorder\\Tree_Inorder.csproj": {
+    "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\Tree_Inorder\\Tree_Inorder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Tree_Inorder\\Tree_Inorder.csproj",
+        "projectUniqueName": "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\Tree_Inorder\\Tree_Inorder.csproj",
         "projectName": "Tree_Inorder",
-        "projectPath": "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Tree_Inorder\\Tree_Inorder.csproj",
+        "projectPath": "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\Tree_Inorder\\Tree_Inorder.csproj",
         "packagesPath": "C:\\Users\\artit\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Tree_Inorder\\obj\\",
+        "outputPath": "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\Tree_Inorder\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

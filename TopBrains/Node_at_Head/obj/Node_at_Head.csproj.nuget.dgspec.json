@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Node_at_Head\\Node_at_Head.csproj": {}
+    "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\Node_at_Head\\Node_at_Head.csproj": {}
   },
   "projects": {
-    "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Node_at_Head\\Node_at_Head.csproj": {
+    "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\Node_at_Head\\Node_at_Head.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Node_at_Head\\Node_at_Head.csproj",
+        "projectUniqueName": "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\Node_at_Head\\Node_at_Head.csproj",
         "projectName": "Node_at_Head",
-        "projectPath": "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Node_at_Head\\Node_at_Head.csproj",
+        "projectPath": "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\Node_at_Head\\Node_at_Head.csproj",
         "packagesPath": "C:\\Users\\artit\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Node_at_Head\\obj\\",
+        "outputPath": "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\Node_at_Head\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

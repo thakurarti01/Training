@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tree_Preorder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d0bdfa1c2f56bcaaf6723fb1175f4d96572a6ed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+966531a54abfae47c7e15f092f190e6c43b197b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tree_Preorder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tree_Preorder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Social_Network\\Social_Network.csproj": {}
+    "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\Social_Network\\Social_Network.csproj": {}
   },
   "projects": {
-    "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Social_Network\\Social_Network.csproj": {
+    "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\Social_Network\\Social_Network.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Social_Network\\Social_Network.csproj",
+        "projectUniqueName": "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\Social_Network\\Social_Network.csproj",
         "projectName": "Social_Network",
-        "projectPath": "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Social_Network\\Social_Network.csproj",
+        "projectPath": "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\Social_Network\\Social_Network.csproj",
         "packagesPath": "C:\\Users\\artit\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Social_Network\\obj\\",
+        "outputPath": "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\Social_Network\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

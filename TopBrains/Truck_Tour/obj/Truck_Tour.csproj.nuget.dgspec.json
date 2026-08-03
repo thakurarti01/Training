@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Truck_Tour\\Truck_Tour.csproj": {}
+    "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\Truck_Tour\\Truck_Tour.csproj": {}
   },
   "projects": {
-    "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Truck_Tour\\Truck_Tour.csproj": {
+    "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\Truck_Tour\\Truck_Tour.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Truck_Tour\\Truck_Tour.csproj",
+        "projectUniqueName": "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\Truck_Tour\\Truck_Tour.csproj",
         "projectName": "Truck_Tour",
-        "projectPath": "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Truck_Tour\\Truck_Tour.csproj",
+        "projectPath": "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\Truck_Tour\\Truck_Tour.csproj",
         "packagesPath": "C:\\Users\\artit\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Truck_Tour\\obj\\",
+        "outputPath": "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\Truck_Tour\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

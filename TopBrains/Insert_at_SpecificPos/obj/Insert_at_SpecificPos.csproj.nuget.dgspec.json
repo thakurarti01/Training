@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Insert_at_SpecificPos\\Insert_at_SpecificPos.csproj": {}
+    "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\Insert_at_SpecificPos\\Insert_at_SpecificPos.csproj": {}
   },
   "projects": {
-    "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Insert_at_SpecificPos\\Insert_at_SpecificPos.csproj": {
+    "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\Insert_at_SpecificPos\\Insert_at_SpecificPos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Insert_at_SpecificPos\\Insert_at_SpecificPos.csproj",
+        "projectUniqueName": "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\Insert_at_SpecificPos\\Insert_at_SpecificPos.csproj",
         "projectName": "Insert_at_SpecificPos",
-        "projectPath": "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Insert_at_SpecificPos\\Insert_at_SpecificPos.csproj",
+        "projectPath": "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\Insert_at_SpecificPos\\Insert_at_SpecificPos.csproj",
         "packagesPath": "C:\\Users\\artit\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Insert_at_SpecificPos\\obj\\",
+        "outputPath": "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\Insert_at_SpecificPos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

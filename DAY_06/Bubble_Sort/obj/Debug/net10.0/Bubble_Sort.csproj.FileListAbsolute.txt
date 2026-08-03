@@ -1,0 +1,15 @@
+C:\Users\artit\Desktop\Training\DAY_06\Bubble_Sort\bin\Debug\net10.0\Bubble_Sort.exe
+C:\Users\artit\Desktop\Training\DAY_06\Bubble_Sort\bin\Debug\net10.0\Bubble_Sort.deps.json
+C:\Users\artit\Desktop\Training\DAY_06\Bubble_Sort\bin\Debug\net10.0\Bubble_Sort.runtimeconfig.json
+C:\Users\artit\Desktop\Training\DAY_06\Bubble_Sort\bin\Debug\net10.0\Bubble_Sort.dll
+C:\Users\artit\Desktop\Training\DAY_06\Bubble_Sort\bin\Debug\net10.0\Bubble_Sort.pdb
+C:\Users\artit\Desktop\Training\DAY_06\Bubble_Sort\obj\Debug\net10.0\Bubble_Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artit\Desktop\Training\DAY_06\Bubble_Sort\obj\Debug\net10.0\Bubble_Sort.AssemblyInfoInputs.cache
+C:\Users\artit\Desktop\Training\DAY_06\Bubble_Sort\obj\Debug\net10.0\Bubble_Sort.AssemblyInfo.cs
+C:\Users\artit\Desktop\Training\DAY_06\Bubble_Sort\obj\Debug\net10.0\Bubble_Sort.csproj.CoreCompileInputs.cache
+C:\Users\artit\Desktop\Training\DAY_06\Bubble_Sort\obj\Debug\net10.0\Bubble_Sort.sourcelink.json
+C:\Users\artit\Desktop\Training\DAY_06\Bubble_Sort\obj\Debug\net10.0\Bubble_Sort.dll
+C:\Users\artit\Desktop\Training\DAY_06\Bubble_Sort\obj\Debug\net10.0\refint\Bubble_Sort.dll
+C:\Users\artit\Desktop\Training\DAY_06\Bubble_Sort\obj\Debug\net10.0\Bubble_Sort.pdb
+C:\Users\artit\Desktop\Training\DAY_06\Bubble_Sort\obj\Debug\net10.0\Bubble_Sort.genruntimeconfig.cache
+C:\Users\artit\Desktop\Training\DAY_06\Bubble_Sort\obj\Debug\net10.0\ref\Bubble_Sort.dll
