@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\artit\\Desktop\\Training\\DAY_06\\Bubble_Sort\\Bubble_Sort.csproj": {}
+    "c:\\Users\\artit\\Desktop\\Training\\DAY_06\\Bubble_Sort\\Bubble_Sort.csproj": {}
   },
   "projects": {
-    "C:\\Users\\artit\\Desktop\\Training\\DAY_06\\Bubble_Sort\\Bubble_Sort.csproj": {
+    "c:\\Users\\artit\\Desktop\\Training\\DAY_06\\Bubble_Sort\\Bubble_Sort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\artit\\Desktop\\Training\\DAY_06\\Bubble_Sort\\Bubble_Sort.csproj",
+        "projectUniqueName": "c:\\Users\\artit\\Desktop\\Training\\DAY_06\\Bubble_Sort\\Bubble_Sort.csproj",
         "projectName": "Bubble_Sort",
-        "projectPath": "C:\\Users\\artit\\Desktop\\Training\\DAY_06\\Bubble_Sort\\Bubble_Sort.csproj",
+        "projectPath": "c:\\Users\\artit\\Desktop\\Training\\DAY_06\\Bubble_Sort\\Bubble_Sort.csproj",
         "packagesPath": "C:\\Users\\artit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\artit\\Desktop\\Training\\DAY_06\\Bubble_Sort\\obj\\",
+        "outputPath": "c:\\Users\\artit\\Desktop\\Training\\DAY_06\\Bubble_Sort\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
