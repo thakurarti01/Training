@@ -1,0 +1,15 @@
+C:\Users\artit\Desktop\Training\DAY_07\Adaptive_Sort\bin\Debug\net10.0\Adaptive_Sort.exe
+C:\Users\artit\Desktop\Training\DAY_07\Adaptive_Sort\bin\Debug\net10.0\Adaptive_Sort.deps.json
+C:\Users\artit\Desktop\Training\DAY_07\Adaptive_Sort\bin\Debug\net10.0\Adaptive_Sort.runtimeconfig.json
+C:\Users\artit\Desktop\Training\DAY_07\Adaptive_Sort\bin\Debug\net10.0\Adaptive_Sort.dll
+C:\Users\artit\Desktop\Training\DAY_07\Adaptive_Sort\bin\Debug\net10.0\Adaptive_Sort.pdb
+C:\Users\artit\Desktop\Training\DAY_07\Adaptive_Sort\obj\Debug\net10.0\Adaptive_Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artit\Desktop\Training\DAY_07\Adaptive_Sort\obj\Debug\net10.0\Adaptive_Sort.AssemblyInfoInputs.cache
+C:\Users\artit\Desktop\Training\DAY_07\Adaptive_Sort\obj\Debug\net10.0\Adaptive_Sort.AssemblyInfo.cs
+C:\Users\artit\Desktop\Training\DAY_07\Adaptive_Sort\obj\Debug\net10.0\Adaptive_Sort.csproj.CoreCompileInputs.cache
+C:\Users\artit\Desktop\Training\DAY_07\Adaptive_Sort\obj\Debug\net10.0\Adaptive_Sort.sourcelink.json
+C:\Users\artit\Desktop\Training\DAY_07\Adaptive_Sort\obj\Debug\net10.0\Adaptive_Sort.dll
+C:\Users\artit\Desktop\Training\DAY_07\Adaptive_Sort\obj\Debug\net10.0\refint\Adaptive_Sort.dll
+C:\Users\artit\Desktop\Training\DAY_07\Adaptive_Sort\obj\Debug\net10.0\Adaptive_Sort.pdb
+C:\Users\artit\Desktop\Training\DAY_07\Adaptive_Sort\obj\Debug\net10.0\Adaptive_Sort.genruntimeconfig.cache
+C:\Users\artit\Desktop\Training\DAY_07\Adaptive_Sort\obj\Debug\net10.0\ref\Adaptive_Sort.dll
