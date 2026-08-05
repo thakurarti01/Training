@@ -1,0 +1,15 @@
+C:\Users\artit\Desktop\Training\DAY_07\Linear_Search\bin\Debug\net10.0\Linear_Search.exe
+C:\Users\artit\Desktop\Training\DAY_07\Linear_Search\bin\Debug\net10.0\Linear_Search.deps.json
+C:\Users\artit\Desktop\Training\DAY_07\Linear_Search\bin\Debug\net10.0\Linear_Search.runtimeconfig.json
+C:\Users\artit\Desktop\Training\DAY_07\Linear_Search\bin\Debug\net10.0\Linear_Search.dll
+C:\Users\artit\Desktop\Training\DAY_07\Linear_Search\bin\Debug\net10.0\Linear_Search.pdb
+C:\Users\artit\Desktop\Training\DAY_07\Linear_Search\obj\Debug\net10.0\Linear_Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artit\Desktop\Training\DAY_07\Linear_Search\obj\Debug\net10.0\Linear_Search.AssemblyInfoInputs.cache
+C:\Users\artit\Desktop\Training\DAY_07\Linear_Search\obj\Debug\net10.0\Linear_Search.AssemblyInfo.cs
+C:\Users\artit\Desktop\Training\DAY_07\Linear_Search\obj\Debug\net10.0\Linear_Search.csproj.CoreCompileInputs.cache
+C:\Users\artit\Desktop\Training\DAY_07\Linear_Search\obj\Debug\net10.0\Linear_Search.sourcelink.json
+C:\Users\artit\Desktop\Training\DAY_07\Linear_Search\obj\Debug\net10.0\Linear_Search.dll
+C:\Users\artit\Desktop\Training\DAY_07\Linear_Search\obj\Debug\net10.0\refint\Linear_Search.dll
+C:\Users\artit\Desktop\Training\DAY_07\Linear_Search\obj\Debug\net10.0\Linear_Search.pdb
+C:\Users\artit\Desktop\Training\DAY_07\Linear_Search\obj\Debug\net10.0\Linear_Search.genruntimeconfig.cache
+C:\Users\artit\Desktop\Training\DAY_07\Linear_Search\obj\Debug\net10.0\ref\Linear_Search.dll

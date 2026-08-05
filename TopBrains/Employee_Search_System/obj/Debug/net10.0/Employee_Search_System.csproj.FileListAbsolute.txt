@@ -1,0 +1,15 @@
+C:\Users\artit\Desktop\Training\TopBrains\Employee_Search_System\bin\Debug\net10.0\Employee_Search_System.exe
+C:\Users\artit\Desktop\Training\TopBrains\Employee_Search_System\bin\Debug\net10.0\Employee_Search_System.deps.json
+C:\Users\artit\Desktop\Training\TopBrains\Employee_Search_System\bin\Debug\net10.0\Employee_Search_System.runtimeconfig.json
+C:\Users\artit\Desktop\Training\TopBrains\Employee_Search_System\bin\Debug\net10.0\Employee_Search_System.dll
+C:\Users\artit\Desktop\Training\TopBrains\Employee_Search_System\bin\Debug\net10.0\Employee_Search_System.pdb
+C:\Users\artit\Desktop\Training\TopBrains\Employee_Search_System\obj\Debug\net10.0\Employee_Search_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artit\Desktop\Training\TopBrains\Employee_Search_System\obj\Debug\net10.0\Employee_Search_System.AssemblyInfoInputs.cache
+C:\Users\artit\Desktop\Training\TopBrains\Employee_Search_System\obj\Debug\net10.0\Employee_Search_System.AssemblyInfo.cs
+C:\Users\artit\Desktop\Training\TopBrains\Employee_Search_System\obj\Debug\net10.0\Employee_Search_System.csproj.CoreCompileInputs.cache
+C:\Users\artit\Desktop\Training\TopBrains\Employee_Search_System\obj\Debug\net10.0\Employee_Search_System.sourcelink.json
+C:\Users\artit\Desktop\Training\TopBrains\Employee_Search_System\obj\Debug\net10.0\Employee_Search_System.dll
+C:\Users\artit\Desktop\Training\TopBrains\Employee_Search_System\obj\Debug\net10.0\refint\Employee_Search_System.dll
+C:\Users\artit\Desktop\Training\TopBrains\Employee_Search_System\obj\Debug\net10.0\Employee_Search_System.pdb
+C:\Users\artit\Desktop\Training\TopBrains\Employee_Search_System\obj\Debug\net10.0\Employee_Search_System.genruntimeconfig.cache
+C:\Users\artit\Desktop\Training\TopBrains\Employee_Search_System\obj\Debug\net10.0\ref\Employee_Search_System.dll

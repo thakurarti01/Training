@@ -1,0 +1,15 @@
+C:\Users\artit\Desktop\Training\DAY_07\Binary_Search\bin\Debug\net10.0\Binary_Search.exe
+C:\Users\artit\Desktop\Training\DAY_07\Binary_Search\bin\Debug\net10.0\Binary_Search.deps.json
+C:\Users\artit\Desktop\Training\DAY_07\Binary_Search\bin\Debug\net10.0\Binary_Search.runtimeconfig.json
+C:\Users\artit\Desktop\Training\DAY_07\Binary_Search\bin\Debug\net10.0\Binary_Search.dll
+C:\Users\artit\Desktop\Training\DAY_07\Binary_Search\bin\Debug\net10.0\Binary_Search.pdb
+C:\Users\artit\Desktop\Training\DAY_07\Binary_Search\obj\Debug\net10.0\Binary_Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artit\Desktop\Training\DAY_07\Binary_Search\obj\Debug\net10.0\Binary_Search.AssemblyInfoInputs.cache
+C:\Users\artit\Desktop\Training\DAY_07\Binary_Search\obj\Debug\net10.0\Binary_Search.AssemblyInfo.cs
+C:\Users\artit\Desktop\Training\DAY_07\Binary_Search\obj\Debug\net10.0\Binary_Search.csproj.CoreCompileInputs.cache
+C:\Users\artit\Desktop\Training\DAY_07\Binary_Search\obj\Debug\net10.0\Binary_Search.sourcelink.json
+C:\Users\artit\Desktop\Training\DAY_07\Binary_Search\obj\Debug\net10.0\Binary_Search.dll
+C:\Users\artit\Desktop\Training\DAY_07\Binary_Search\obj\Debug\net10.0\refint\Binary_Search.dll
+C:\Users\artit\Desktop\Training\DAY_07\Binary_Search\obj\Debug\net10.0\Binary_Search.pdb
+C:\Users\artit\Desktop\Training\DAY_07\Binary_Search\obj\Debug\net10.0\Binary_Search.genruntimeconfig.cache
+C:\Users\artit\Desktop\Training\DAY_07\Binary_Search\obj\Debug\net10.0\ref\Binary_Search.dll
