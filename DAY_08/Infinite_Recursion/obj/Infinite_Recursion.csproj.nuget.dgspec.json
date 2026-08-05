@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Employee_Search_System\\Employee_Search_System.csproj": {}
+    "c:\\Users\\artit\\Desktop\\Training\\DAY_08\\Infinite_Recursion\\Infinite_Recursion.csproj": {}
   },
   "projects": {
-    "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Employee_Search_System\\Employee_Search_System.csproj": {
+    "c:\\Users\\artit\\Desktop\\Training\\DAY_08\\Infinite_Recursion\\Infinite_Recursion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Employee_Search_System\\Employee_Search_System.csproj",
-        "projectName": "Employee_Search_System",
-        "projectPath": "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Employee_Search_System\\Employee_Search_System.csproj",
+        "projectUniqueName": "c:\\Users\\artit\\Desktop\\Training\\DAY_08\\Infinite_Recursion\\Infinite_Recursion.csproj",
+        "projectName": "Infinite_Recursion",
+        "projectPath": "c:\\Users\\artit\\Desktop\\Training\\DAY_08\\Infinite_Recursion\\Infinite_Recursion.csproj",
         "packagesPath": "C:\\Users\\artit\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Employee_Search_System\\obj\\",
+        "outputPath": "c:\\Users\\artit\\Desktop\\Training\\DAY_08\\Infinite_Recursion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
