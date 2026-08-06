@@ -6,36 +6,36 @@ class Program
 {
     static void Main()
     {
-        List<Employee> employees = new List<Employee>
+        List<Employee_Model> employees = new List<Employee_Model>
         {
-            new Employee(1001,"Rahul Sharma","IT","Software Engineer",2,45000,"Chennai"),
-            new Employee(1002,"Priya Singh","HR","HR Executive",3,40000,"Bangalore"),
-            new Employee(1003,"Amit Kumar","Finance","Accountant",5,55000,"Hyderabad"),
-            new Employee(1004,"Neha Patel","IT","Senior Developer",6,85000,"Pune"),
-            new Employee(1005,"Arjun Reddy","Sales","Sales Executive",2,38000,"Chennai"),
-            new Employee(1006,"Sneha Iyer","Marketing","Marketing Executive",4,52000,"Coimbatore"),
-            new Employee(1007,"Karan Mehta","IT","Team Lead",8,95000,"Mumbai"),
-            new Employee(1008,"Divya Nair","Support","Support Engineer",1,32000,"Kochi"),
-            new Employee(1009,"Rohit Verma","IT","Software Engineer",3,50000,"Delhi"),
-            new Employee(1010,"Anjali Gupta","Finance","Financial Analyst",4,65000,"Noida"),
-            new Employee(1011,"Suresh Kumar","Admin","Administrator",7,58000,"Madurai"),
-            new Employee(1012,"Pooja Sharma","HR","Recruiter",2,42000,"Bangalore"),
-            new Employee(1013,"Vikram Das","IT","System Engineer",5,62000,"Chennai"),
-            new Employee(1014,"Meena Joshi","Support","Technical Support",3,41000,"Trichy"),
-            new Employee(1015,"Naveen Raj","Sales","Sales Manager",9,98000,"Salem"),
-            new Employee(1016,"Kavya R","Marketing","SEO Analyst",2,45000,"Chennai"),
-            new Employee(1017,"Ajay Kumar","IT","DevOps Engineer",4,72000,"Hyderabad"),
-            new Employee(1018,"Lakshmi Devi","Finance","Senior Accountant",6,76000,"Coimbatore"),
-            new Employee(1019,"Manoj Singh","IT","QA Engineer",3,53000,"Pune"),
-            new Employee(1020,"Deepika Rao","HR","HR Manager",8,90000,"Bangalore")
+            new Employee_Model(1001,"Rahul Sharma","IT","Software Engineer",2,45000,"Chennai"),
+            new Employee_Model(1002,"Priya Singh","HR","HR Executive",3,40000,"Bangalore"),
+            new Employee_Model(1003,"Amit Kumar","Finance","Accountant",5,55000,"Hyderabad"),
+            new Employee_Model(1004,"Neha Patel","IT","Senior Developer",6,85000,"Pune"),
+            new Employee_Model(1005,"Arjun Reddy","Sales","Sales Executive",2,38000,"Chennai"),
+            new Employee_Model(1006,"Sneha Iyer","Marketing","Marketing Executive",4,52000,"Coimbatore"),
+            new Employee_Model(1007,"Karan Mehta","IT","Team Lead",8,95000,"Mumbai"),
+            new Employee_Model(1008,"Divya Nair","Support","Support Engineer",1,32000,"Kochi"),
+            new Employee_Model(1009,"Rohit Verma","IT","Software Engineer",3,50000,"Delhi"),
+            new Employee_Model(1010,"Anjali Gupta","Finance","Financial Analyst",4,65000,"Noida"),
+            new Employee_Model(1011,"Suresh Kumar","Admin","Administrator",7,58000,"Madurai"),
+            new Employee_Model(1012,"Pooja Sharma","HR","Recruiter",2,42000,"Bangalore"),
+            new Employee_Model(1013,"Vikram Das","IT","System Engineer",5,62000,"Chennai"),
+            new Employee_Model(1014,"Meena Joshi","Support","Technical Support",3,41000,"Trichy"),
+            new Employee_Model(1015,"Naveen Raj","Sales","Sales Manager",9,98000,"Salem"),
+            new Employee_Model(1016,"Kavya R","Marketing","SEO Analyst",2,45000,"Chennai"),
+            new Employee_Model(1017,"Ajay Kumar","IT","DevOps Engineer",4,72000,"Hyderabad"),
+            new Employee_Model(1018,"Lakshmi Devi","Finance","Senior Accountant",6,76000,"Coimbatore"),
+            new Employee_Model(1019,"Manoj Singh","IT","QA Engineer",3,53000,"Pune"),
+            new Employee_Model(1020,"Deepika Rao","HR","HR Manager",8,90000,"Bangalore")
         };
 
         while (true)
         {
-            Console.WriteLine("\n====================================");
+            Console.WriteLine("\n**********************************");
             Console.WriteLine("      ABC Technologies");
             Console.WriteLine(" Employee Search Management System");
-            Console.WriteLine("====================================");
+            Console.WriteLine("************************************");
 
             Console.WriteLine("1. Display All Employees");
             Console.WriteLine("2. Search by Employee ID (Linear Search)");
@@ -110,16 +110,16 @@ class Program
     }
 
     // Display all employees
-    static void DisplayAll(List<Employee> employees)
+    static void DisplayAll(List<Employee_Model> employees)
     {
-        foreach (Employee emp in employees)
+        foreach (Employee_Model emp in employees)
             emp.Display();
     }
 
     // Linear Search
-    static void LinearSearch(List<Employee> employees, int id)
+    static void LinearSearch(List<Employee_Model> employees, int id)
     {
-        foreach (Employee emp in employees)
+        foreach (Employee_Model emp in employees)
         {
             if (emp.Id == id)
             {
@@ -132,7 +132,7 @@ class Program
     }
 
     // Binary Search
-    static void BinarySearch(List<Employee> employees, int id)
+    static void BinarySearch(List<Employee_Model> employees, int id)
     {
         employees = employees.OrderBy(e => e.Id).ToList();
 
@@ -162,11 +162,11 @@ class Program
     }
 
     // Search by Name
-    static void SearchByName(List<Employee> employees, string name)
+    static void SearchByName(List<Employee_Model> employees, string name)
     {
         bool found = false;
 
-        foreach (Employee emp in employees)
+        foreach (Employee_Model emp in employees)
         {
             if (emp.Name.ToLower().Contains(name.ToLower()))
             {
@@ -180,11 +180,11 @@ class Program
     }
 
     // Search by Department
-    static void SearchByDepartment(List<Employee> employees, string dept)
+    static void SearchByDepartment(List<Employee_Model> employees, string dept)
     {
         bool found = false;
 
-        foreach (Employee emp in employees)
+        foreach (Employee_Model emp in employees)
         {
             if (emp.Department.Equals(dept, StringComparison.OrdinalIgnoreCase))
             {
@@ -198,11 +198,11 @@ class Program
     }
 
     // Search by City
-    static void SearchByCity(List<Employee> employees, string city)
+    static void SearchByCity(List<Employee_Model> employees, string city)
     {
         bool found = false;
 
-        foreach (Employee emp in employees)
+        foreach (Employee_Model emp in employees)
         {
             if (emp.City.Equals(city, StringComparison.OrdinalIgnoreCase))
             {
@@ -216,13 +216,13 @@ class Program
     }
 
     // Search by Experience
-    static void SearchByExperience(List<Employee> employees, int exp)
+    static void SearchByExperience(List<Employee_Model> employees, int exp)
     {
         bool found = false;
 
-        foreach (Employee emp in employees)
+        foreach (Employee_Model emp in employees)
         {
-            if (emp.Experience >= exp)
+            if (emp.Exp >= exp)
             {
                 emp.Display();
                 found = true;
@@ -234,11 +234,11 @@ class Program
     }
 
     // Search by Salary Range
-    static void SearchBySalary(List<Employee> employees, double min, double max)
+    static void SearchBySalary(List<Employee_Model> employees, double min, double max)
     {
         bool found = false;
 
-        foreach (Employee emp in employees)
+        foreach (Employee_Model emp in employees)
         {
             if (emp.Salary >= min && emp.Salary <= max)
             {
