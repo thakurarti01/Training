@@ -1,0 +1,15 @@
+C:\Users\artit\Desktop\Training\TopBrains\PS25_Very_Big_Sum\bin\Debug\net10.0\PS25_Very_Big_Sum.exe
+C:\Users\artit\Desktop\Training\TopBrains\PS25_Very_Big_Sum\bin\Debug\net10.0\PS25_Very_Big_Sum.deps.json
+C:\Users\artit\Desktop\Training\TopBrains\PS25_Very_Big_Sum\bin\Debug\net10.0\PS25_Very_Big_Sum.runtimeconfig.json
+C:\Users\artit\Desktop\Training\TopBrains\PS25_Very_Big_Sum\bin\Debug\net10.0\PS25_Very_Big_Sum.dll
+C:\Users\artit\Desktop\Training\TopBrains\PS25_Very_Big_Sum\bin\Debug\net10.0\PS25_Very_Big_Sum.pdb
+C:\Users\artit\Desktop\Training\TopBrains\PS25_Very_Big_Sum\obj\Debug\net10.0\PS25_Very_Big_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artit\Desktop\Training\TopBrains\PS25_Very_Big_Sum\obj\Debug\net10.0\PS25_Very_Big_Sum.AssemblyInfoInputs.cache
+C:\Users\artit\Desktop\Training\TopBrains\PS25_Very_Big_Sum\obj\Debug\net10.0\PS25_Very_Big_Sum.AssemblyInfo.cs
+C:\Users\artit\Desktop\Training\TopBrains\PS25_Very_Big_Sum\obj\Debug\net10.0\PS25_Very_Big_Sum.csproj.CoreCompileInputs.cache
+C:\Users\artit\Desktop\Training\TopBrains\PS25_Very_Big_Sum\obj\Debug\net10.0\PS25_Very_Big_Sum.sourcelink.json
+C:\Users\artit\Desktop\Training\TopBrains\PS25_Very_Big_Sum\obj\Debug\net10.0\PS25_Very_Big_Sum.dll
+C:\Users\artit\Desktop\Training\TopBrains\PS25_Very_Big_Sum\obj\Debug\net10.0\refint\PS25_Very_Big_Sum.dll
+C:\Users\artit\Desktop\Training\TopBrains\PS25_Very_Big_Sum\obj\Debug\net10.0\PS25_Very_Big_Sum.pdb
+C:\Users\artit\Desktop\Training\TopBrains\PS25_Very_Big_Sum\obj\Debug\net10.0\PS25_Very_Big_Sum.genruntimeconfig.cache
+C:\Users\artit\Desktop\Training\TopBrains\PS25_Very_Big_Sum\obj\Debug\net10.0\ref\PS25_Very_Big_Sum.dll

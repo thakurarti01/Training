@@ -1,0 +1,15 @@
+C:\Users\artit\Desktop\Training\TopBrains\3D_Surface_Area\bin\Debug\net10.0\3D_Surface_Area.exe
+C:\Users\artit\Desktop\Training\TopBrains\3D_Surface_Area\bin\Debug\net10.0\3D_Surface_Area.deps.json
+C:\Users\artit\Desktop\Training\TopBrains\3D_Surface_Area\bin\Debug\net10.0\3D_Surface_Area.runtimeconfig.json
+C:\Users\artit\Desktop\Training\TopBrains\3D_Surface_Area\bin\Debug\net10.0\3D_Surface_Area.dll
+C:\Users\artit\Desktop\Training\TopBrains\3D_Surface_Area\bin\Debug\net10.0\3D_Surface_Area.pdb
+C:\Users\artit\Desktop\Training\TopBrains\3D_Surface_Area\obj\Debug\net10.0\3D_Surface_Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artit\Desktop\Training\TopBrains\3D_Surface_Area\obj\Debug\net10.0\3D_Surface_Area.AssemblyInfoInputs.cache
+C:\Users\artit\Desktop\Training\TopBrains\3D_Surface_Area\obj\Debug\net10.0\3D_Surface_Area.AssemblyInfo.cs
+C:\Users\artit\Desktop\Training\TopBrains\3D_Surface_Area\obj\Debug\net10.0\3D_Surface_Area.csproj.CoreCompileInputs.cache
+C:\Users\artit\Desktop\Training\TopBrains\3D_Surface_Area\obj\Debug\net10.0\3D_Surface_Area.sourcelink.json
+C:\Users\artit\Desktop\Training\TopBrains\3D_Surface_Area\obj\Debug\net10.0\3D_Surface_Area.dll
+C:\Users\artit\Desktop\Training\TopBrains\3D_Surface_Area\obj\Debug\net10.0\refint\3D_Surface_Area.dll
+C:\Users\artit\Desktop\Training\TopBrains\3D_Surface_Area\obj\Debug\net10.0\3D_Surface_Area.pdb
+C:\Users\artit\Desktop\Training\TopBrains\3D_Surface_Area\obj\Debug\net10.0\3D_Surface_Area.genruntimeconfig.cache
+C:\Users\artit\Desktop\Training\TopBrains\3D_Surface_Area\obj\Debug\net10.0\ref\3D_Surface_Area.dll

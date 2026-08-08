@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PS2_IceCream_Parlour")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80fd651149c683128193c726c86730f6fe5135e8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ef554a0e2892639b7ee4f41ea49b1c62e607ea4")]
 [assembly: System.Reflection.AssemblyProductAttribute("PS2_IceCream_Parlour")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PS2_IceCream_Parlour")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
