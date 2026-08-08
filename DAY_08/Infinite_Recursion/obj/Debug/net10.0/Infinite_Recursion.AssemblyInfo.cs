@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Infinite_Recursion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b7113c5c345fd46729e75b3cfb83bad69502c3b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ddb297fd188ba286325c1aa8e49368bf682cf45")]
 [assembly: System.Reflection.AssemblyProductAttribute("Infinite_Recursion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Infinite_Recursion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

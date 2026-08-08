@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Diagnose_the_Pattern\\Diagnose_the_Pattern.csproj": {}
+    "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\Diagnose_the_Pattern\\Diagnose_the_Pattern.csproj": {}
   },
   "projects": {
-    "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Diagnose_the_Pattern\\Diagnose_the_Pattern.csproj": {
+    "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\Diagnose_the_Pattern\\Diagnose_the_Pattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Diagnose_the_Pattern\\Diagnose_the_Pattern.csproj",
+        "projectUniqueName": "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\Diagnose_the_Pattern\\Diagnose_the_Pattern.csproj",
         "projectName": "Diagnose_the_Pattern",
-        "projectPath": "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Diagnose_the_Pattern\\Diagnose_the_Pattern.csproj",
+        "projectPath": "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\Diagnose_the_Pattern\\Diagnose_the_Pattern.csproj",
         "packagesPath": "C:\\Users\\artit\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Diagnose_the_Pattern\\obj\\",
+        "outputPath": "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\Diagnose_the_Pattern\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

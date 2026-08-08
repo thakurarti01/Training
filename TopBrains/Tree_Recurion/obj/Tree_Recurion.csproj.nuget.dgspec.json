@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Tree_Recurion\\Tree_Recurion.csproj": {}
+    "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\Tree_Recurion\\Tree_Recurion.csproj": {}
   },
   "projects": {
-    "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Tree_Recurion\\Tree_Recurion.csproj": {
+    "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\Tree_Recurion\\Tree_Recurion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Tree_Recurion\\Tree_Recurion.csproj",
+        "projectUniqueName": "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\Tree_Recurion\\Tree_Recurion.csproj",
         "projectName": "Tree_Recurion",
-        "projectPath": "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Tree_Recurion\\Tree_Recurion.csproj",
+        "projectPath": "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\Tree_Recurion\\Tree_Recurion.csproj",
         "packagesPath": "C:\\Users\\artit\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\Tree_Recurion\\obj\\",
+        "outputPath": "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\Tree_Recurion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
