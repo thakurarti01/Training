@@ -5,19 +5,12 @@ using System.Linq;
 class Solution
 {
     /*
-        
-        SUMMARY:
-        
         We have an n x m grid.
-
         Some cells contain train tracks.
-
         We need to find how many cells do NOT contain tracks.
 
         Formula:
-
             Free Cells = Total Cells - Occupied Cells
-
         Total Cells = n * m
 
         The main challenge is that tracks can overlap.
@@ -32,15 +25,11 @@ class Solution
         List<List<int>> track)
     {
         /*
-            --------------------------------------------------------
             STEP 1: Group tracks by row
-            --------------------------------------------------------
 
             Dictionary key   = row number
             Dictionary value = list of (start column, end column)
-
             Example:
-
             Input:
                 2 3 6
                 2 5 8

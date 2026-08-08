@@ -1,0 +1,15 @@
+C:\Users\artit\Desktop\Training\TopBrains\PS2_Icecream_Parlour\bin\Debug\net10.0\PS2_IceCream_Parlour.exe
+C:\Users\artit\Desktop\Training\TopBrains\PS2_Icecream_Parlour\bin\Debug\net10.0\PS2_IceCream_Parlour.deps.json
+C:\Users\artit\Desktop\Training\TopBrains\PS2_Icecream_Parlour\bin\Debug\net10.0\PS2_IceCream_Parlour.runtimeconfig.json
+C:\Users\artit\Desktop\Training\TopBrains\PS2_Icecream_Parlour\bin\Debug\net10.0\PS2_IceCream_Parlour.dll
+C:\Users\artit\Desktop\Training\TopBrains\PS2_Icecream_Parlour\bin\Debug\net10.0\PS2_IceCream_Parlour.pdb
+C:\Users\artit\Desktop\Training\TopBrains\PS2_Icecream_Parlour\obj\Debug\net10.0\PS2_IceCream_Parlour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artit\Desktop\Training\TopBrains\PS2_Icecream_Parlour\obj\Debug\net10.0\PS2_IceCream_Parlour.AssemblyInfoInputs.cache
+C:\Users\artit\Desktop\Training\TopBrains\PS2_Icecream_Parlour\obj\Debug\net10.0\PS2_IceCream_Parlour.AssemblyInfo.cs
+C:\Users\artit\Desktop\Training\TopBrains\PS2_Icecream_Parlour\obj\Debug\net10.0\PS2_IceCream_Parlour.csproj.CoreCompileInputs.cache
+C:\Users\artit\Desktop\Training\TopBrains\PS2_Icecream_Parlour\obj\Debug\net10.0\PS2_IceCream_Parlour.sourcelink.json
+C:\Users\artit\Desktop\Training\TopBrains\PS2_Icecream_Parlour\obj\Debug\net10.0\PS2_IceCream_Parlour.dll
+C:\Users\artit\Desktop\Training\TopBrains\PS2_Icecream_Parlour\obj\Debug\net10.0\refint\PS2_IceCream_Parlour.dll
+C:\Users\artit\Desktop\Training\TopBrains\PS2_Icecream_Parlour\obj\Debug\net10.0\PS2_IceCream_Parlour.pdb
+C:\Users\artit\Desktop\Training\TopBrains\PS2_Icecream_Parlour\obj\Debug\net10.0\PS2_IceCream_Parlour.genruntimeconfig.cache
+C:\Users\artit\Desktop\Training\TopBrains\PS2_Icecream_Parlour\obj\Debug\net10.0\ref\PS2_IceCream_Parlour.dll

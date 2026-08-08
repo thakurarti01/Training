@@ -1,0 +1,15 @@
+C:\Users\artit\Desktop\Training\TopBrains\PS14_Simple_Version\bin\Debug\net10.0\PS14_Simple_Version.exe
+C:\Users\artit\Desktop\Training\TopBrains\PS14_Simple_Version\bin\Debug\net10.0\PS14_Simple_Version.deps.json
+C:\Users\artit\Desktop\Training\TopBrains\PS14_Simple_Version\bin\Debug\net10.0\PS14_Simple_Version.runtimeconfig.json
+C:\Users\artit\Desktop\Training\TopBrains\PS14_Simple_Version\bin\Debug\net10.0\PS14_Simple_Version.dll
+C:\Users\artit\Desktop\Training\TopBrains\PS14_Simple_Version\bin\Debug\net10.0\PS14_Simple_Version.pdb
+C:\Users\artit\Desktop\Training\TopBrains\PS14_Simple_Version\obj\Debug\net10.0\PS14_Simple_Version.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artit\Desktop\Training\TopBrains\PS14_Simple_Version\obj\Debug\net10.0\PS14_Simple_Version.AssemblyInfoInputs.cache
+C:\Users\artit\Desktop\Training\TopBrains\PS14_Simple_Version\obj\Debug\net10.0\PS14_Simple_Version.AssemblyInfo.cs
+C:\Users\artit\Desktop\Training\TopBrains\PS14_Simple_Version\obj\Debug\net10.0\PS14_Simple_Version.csproj.CoreCompileInputs.cache
+C:\Users\artit\Desktop\Training\TopBrains\PS14_Simple_Version\obj\Debug\net10.0\PS14_Simple_Version.sourcelink.json
+C:\Users\artit\Desktop\Training\TopBrains\PS14_Simple_Version\obj\Debug\net10.0\PS14_Simple_Version.dll
+C:\Users\artit\Desktop\Training\TopBrains\PS14_Simple_Version\obj\Debug\net10.0\refint\PS14_Simple_Version.dll
+C:\Users\artit\Desktop\Training\TopBrains\PS14_Simple_Version\obj\Debug\net10.0\PS14_Simple_Version.pdb
+C:\Users\artit\Desktop\Training\TopBrains\PS14_Simple_Version\obj\Debug\net10.0\PS14_Simple_Version.genruntimeconfig.cache
+C:\Users\artit\Desktop\Training\TopBrains\PS14_Simple_Version\obj\Debug\net10.0\ref\PS14_Simple_Version.dll
