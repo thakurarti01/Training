@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\PS2_IceCream_Parlour\\PS2_IceCream_Parlour.csproj": {}
+    "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\PS2_IceCream_Parlour\\PS2_IceCream_Parlour.csproj": {}
   },
   "projects": {
-    "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\PS2_IceCream_Parlour\\PS2_IceCream_Parlour.csproj": {
+    "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\PS2_IceCream_Parlour\\PS2_IceCream_Parlour.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\PS2_IceCream_Parlour\\PS2_IceCream_Parlour.csproj",
+        "projectUniqueName": "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\PS2_IceCream_Parlour\\PS2_IceCream_Parlour.csproj",
         "projectName": "PS2_IceCream_Parlour",
-        "projectPath": "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\PS2_IceCream_Parlour\\PS2_IceCream_Parlour.csproj",
+        "projectPath": "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\PS2_IceCream_Parlour\\PS2_IceCream_Parlour.csproj",
         "packagesPath": "C:\\Users\\artit\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\PS2_IceCream_Parlour\\obj\\",
+        "outputPath": "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\PS2_IceCream_Parlour\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

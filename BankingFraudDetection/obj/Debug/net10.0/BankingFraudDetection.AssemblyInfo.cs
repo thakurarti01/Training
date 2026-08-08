@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BankingFraudDetection")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ddb297fd188ba286325c1aa8e49368bf682cf45")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aed504d09339a2a793aa682427e62888dbc39fdd")]
 [assembly: System.Reflection.AssemblyProductAttribute("BankingFraudDetection")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BankingFraudDetection")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
