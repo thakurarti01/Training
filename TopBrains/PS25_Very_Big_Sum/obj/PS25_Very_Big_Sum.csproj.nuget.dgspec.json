@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\PS25_Very_Big_Sum\\PS25_Very_Big_Sum.csproj": {}
+    "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\PS25_Very_Big_Sum\\PS25_Very_Big_Sum.csproj": {}
   },
   "projects": {
-    "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\PS25_Very_Big_Sum\\PS25_Very_Big_Sum.csproj": {
+    "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\PS25_Very_Big_Sum\\PS25_Very_Big_Sum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\PS25_Very_Big_Sum\\PS25_Very_Big_Sum.csproj",
+        "projectUniqueName": "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\PS25_Very_Big_Sum\\PS25_Very_Big_Sum.csproj",
         "projectName": "PS25_Very_Big_Sum",
-        "projectPath": "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\PS25_Very_Big_Sum\\PS25_Very_Big_Sum.csproj",
+        "projectPath": "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\PS25_Very_Big_Sum\\PS25_Very_Big_Sum.csproj",
         "packagesPath": "C:\\Users\\artit\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\artit\\Desktop\\Training\\TopBrains\\PS25_Very_Big_Sum\\obj\\",
+        "outputPath": "C:\\Users\\artit\\Desktop\\Training\\TopBrains\\PS25_Very_Big_Sum\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

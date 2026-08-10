@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Height_of_BT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aed504d09339a2a793aa682427e62888dbc39fdd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6c3d658f6978581a1508bac7d5d55be30f38e9c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Height_of_BT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Height_of_BT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
