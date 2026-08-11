@@ -1,0 +1,15 @@
+C:\Users\artit\Desktop\Training\DAY_13\Struct_Eg.cs\bin\Debug\net10.0\Struct_Eg.cs.exe
+C:\Users\artit\Desktop\Training\DAY_13\Struct_Eg.cs\bin\Debug\net10.0\Struct_Eg.cs.deps.json
+C:\Users\artit\Desktop\Training\DAY_13\Struct_Eg.cs\bin\Debug\net10.0\Struct_Eg.cs.runtimeconfig.json
+C:\Users\artit\Desktop\Training\DAY_13\Struct_Eg.cs\bin\Debug\net10.0\Struct_Eg.cs.dll
+C:\Users\artit\Desktop\Training\DAY_13\Struct_Eg.cs\bin\Debug\net10.0\Struct_Eg.cs.pdb
+C:\Users\artit\Desktop\Training\DAY_13\Struct_Eg.cs\obj\Debug\net10.0\Struct_Eg.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artit\Desktop\Training\DAY_13\Struct_Eg.cs\obj\Debug\net10.0\Struct_Eg.cs.AssemblyInfoInputs.cache
+C:\Users\artit\Desktop\Training\DAY_13\Struct_Eg.cs\obj\Debug\net10.0\Struct_Eg.cs.AssemblyInfo.cs
+C:\Users\artit\Desktop\Training\DAY_13\Struct_Eg.cs\obj\Debug\net10.0\Struct_Eg.cs.csproj.CoreCompileInputs.cache
+C:\Users\artit\Desktop\Training\DAY_13\Struct_Eg.cs\obj\Debug\net10.0\Struct_Eg.cs.sourcelink.json
+C:\Users\artit\Desktop\Training\DAY_13\Struct_Eg.cs\obj\Debug\net10.0\Struct_Eg.cs.dll
+C:\Users\artit\Desktop\Training\DAY_13\Struct_Eg.cs\obj\Debug\net10.0\refint\Struct_Eg.cs.dll
+C:\Users\artit\Desktop\Training\DAY_13\Struct_Eg.cs\obj\Debug\net10.0\Struct_Eg.cs.pdb
+C:\Users\artit\Desktop\Training\DAY_13\Struct_Eg.cs\obj\Debug\net10.0\Struct_Eg.cs.genruntimeconfig.cache
+C:\Users\artit\Desktop\Training\DAY_13\Struct_Eg.cs\obj\Debug\net10.0\ref\Struct_Eg.cs.dll
