@@ -1,0 +1,15 @@
+C:\Users\artit\Desktop\Training\TopBrains\Log_Processor\bin\Debug\net10.0\Log_Processor.exe
+C:\Users\artit\Desktop\Training\TopBrains\Log_Processor\bin\Debug\net10.0\Log_Processor.deps.json
+C:\Users\artit\Desktop\Training\TopBrains\Log_Processor\bin\Debug\net10.0\Log_Processor.runtimeconfig.json
+C:\Users\artit\Desktop\Training\TopBrains\Log_Processor\bin\Debug\net10.0\Log_Processor.dll
+C:\Users\artit\Desktop\Training\TopBrains\Log_Processor\bin\Debug\net10.0\Log_Processor.pdb
+C:\Users\artit\Desktop\Training\TopBrains\Log_Processor\obj\Debug\net10.0\Log_Processor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artit\Desktop\Training\TopBrains\Log_Processor\obj\Debug\net10.0\Log_Processor.AssemblyInfoInputs.cache
+C:\Users\artit\Desktop\Training\TopBrains\Log_Processor\obj\Debug\net10.0\Log_Processor.AssemblyInfo.cs
+C:\Users\artit\Desktop\Training\TopBrains\Log_Processor\obj\Debug\net10.0\Log_Processor.csproj.CoreCompileInputs.cache
+C:\Users\artit\Desktop\Training\TopBrains\Log_Processor\obj\Debug\net10.0\Log_Processor.sourcelink.json
+C:\Users\artit\Desktop\Training\TopBrains\Log_Processor\obj\Debug\net10.0\Log_Processor.dll
+C:\Users\artit\Desktop\Training\TopBrains\Log_Processor\obj\Debug\net10.0\refint\Log_Processor.dll
+C:\Users\artit\Desktop\Training\TopBrains\Log_Processor\obj\Debug\net10.0\Log_Processor.pdb
+C:\Users\artit\Desktop\Training\TopBrains\Log_Processor\obj\Debug\net10.0\Log_Processor.genruntimeconfig.cache
+C:\Users\artit\Desktop\Training\TopBrains\Log_Processor\obj\Debug\net10.0\ref\Log_Processor.dll
