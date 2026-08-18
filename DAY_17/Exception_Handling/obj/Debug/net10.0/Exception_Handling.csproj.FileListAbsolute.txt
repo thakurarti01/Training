@@ -1,0 +1,15 @@
+C:\Users\artit\Desktop\Training\DAY_17\Exception_Handling\bin\Debug\net10.0\Exception_Handling.exe
+C:\Users\artit\Desktop\Training\DAY_17\Exception_Handling\bin\Debug\net10.0\Exception_Handling.deps.json
+C:\Users\artit\Desktop\Training\DAY_17\Exception_Handling\bin\Debug\net10.0\Exception_Handling.runtimeconfig.json
+C:\Users\artit\Desktop\Training\DAY_17\Exception_Handling\bin\Debug\net10.0\Exception_Handling.dll
+C:\Users\artit\Desktop\Training\DAY_17\Exception_Handling\bin\Debug\net10.0\Exception_Handling.pdb
+C:\Users\artit\Desktop\Training\DAY_17\Exception_Handling\obj\Debug\net10.0\Exception_Handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artit\Desktop\Training\DAY_17\Exception_Handling\obj\Debug\net10.0\Exception_Handling.AssemblyInfoInputs.cache
+C:\Users\artit\Desktop\Training\DAY_17\Exception_Handling\obj\Debug\net10.0\Exception_Handling.AssemblyInfo.cs
+C:\Users\artit\Desktop\Training\DAY_17\Exception_Handling\obj\Debug\net10.0\Exception_Handling.csproj.CoreCompileInputs.cache
+C:\Users\artit\Desktop\Training\DAY_17\Exception_Handling\obj\Debug\net10.0\Exception_Handling.sourcelink.json
+C:\Users\artit\Desktop\Training\DAY_17\Exception_Handling\obj\Debug\net10.0\Exception_Handling.dll
+C:\Users\artit\Desktop\Training\DAY_17\Exception_Handling\obj\Debug\net10.0\refint\Exception_Handling.dll
+C:\Users\artit\Desktop\Training\DAY_17\Exception_Handling\obj\Debug\net10.0\Exception_Handling.pdb
+C:\Users\artit\Desktop\Training\DAY_17\Exception_Handling\obj\Debug\net10.0\Exception_Handling.genruntimeconfig.cache
+C:\Users\artit\Desktop\Training\DAY_17\Exception_Handling\obj\Debug\net10.0\ref\Exception_Handling.dll

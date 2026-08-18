@@ -1,0 +1,15 @@
+C:\Users\artit\Desktop\Training\DAY_17\Exception_Finally\bin\Debug\net10.0\Exception_Finally.exe
+C:\Users\artit\Desktop\Training\DAY_17\Exception_Finally\bin\Debug\net10.0\Exception_Finally.deps.json
+C:\Users\artit\Desktop\Training\DAY_17\Exception_Finally\bin\Debug\net10.0\Exception_Finally.runtimeconfig.json
+C:\Users\artit\Desktop\Training\DAY_17\Exception_Finally\bin\Debug\net10.0\Exception_Finally.dll
+C:\Users\artit\Desktop\Training\DAY_17\Exception_Finally\bin\Debug\net10.0\Exception_Finally.pdb
+C:\Users\artit\Desktop\Training\DAY_17\Exception_Finally\obj\Debug\net10.0\Exception_Finally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artit\Desktop\Training\DAY_17\Exception_Finally\obj\Debug\net10.0\Exception_Finally.AssemblyInfoInputs.cache
+C:\Users\artit\Desktop\Training\DAY_17\Exception_Finally\obj\Debug\net10.0\Exception_Finally.AssemblyInfo.cs
+C:\Users\artit\Desktop\Training\DAY_17\Exception_Finally\obj\Debug\net10.0\Exception_Finally.csproj.CoreCompileInputs.cache
+C:\Users\artit\Desktop\Training\DAY_17\Exception_Finally\obj\Debug\net10.0\Exception_Finally.sourcelink.json
+C:\Users\artit\Desktop\Training\DAY_17\Exception_Finally\obj\Debug\net10.0\Exception_Finally.dll
+C:\Users\artit\Desktop\Training\DAY_17\Exception_Finally\obj\Debug\net10.0\refint\Exception_Finally.dll
+C:\Users\artit\Desktop\Training\DAY_17\Exception_Finally\obj\Debug\net10.0\Exception_Finally.pdb
+C:\Users\artit\Desktop\Training\DAY_17\Exception_Finally\obj\Debug\net10.0\Exception_Finally.genruntimeconfig.cache
+C:\Users\artit\Desktop\Training\DAY_17\Exception_Finally\obj\Debug\net10.0\ref\Exception_Finally.dll

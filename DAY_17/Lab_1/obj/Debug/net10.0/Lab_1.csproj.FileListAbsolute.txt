@@ -1,0 +1,15 @@
+C:\Users\artit\Desktop\Training\DAY_17\Lab_1\bin\Debug\net10.0\Lab_1.exe
+C:\Users\artit\Desktop\Training\DAY_17\Lab_1\bin\Debug\net10.0\Lab_1.deps.json
+C:\Users\artit\Desktop\Training\DAY_17\Lab_1\bin\Debug\net10.0\Lab_1.runtimeconfig.json
+C:\Users\artit\Desktop\Training\DAY_17\Lab_1\bin\Debug\net10.0\Lab_1.dll
+C:\Users\artit\Desktop\Training\DAY_17\Lab_1\bin\Debug\net10.0\Lab_1.pdb
+C:\Users\artit\Desktop\Training\DAY_17\Lab_1\obj\Debug\net10.0\Lab_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artit\Desktop\Training\DAY_17\Lab_1\obj\Debug\net10.0\Lab_1.AssemblyInfoInputs.cache
+C:\Users\artit\Desktop\Training\DAY_17\Lab_1\obj\Debug\net10.0\Lab_1.AssemblyInfo.cs
+C:\Users\artit\Desktop\Training\DAY_17\Lab_1\obj\Debug\net10.0\Lab_1.csproj.CoreCompileInputs.cache
+C:\Users\artit\Desktop\Training\DAY_17\Lab_1\obj\Debug\net10.0\Lab_1.sourcelink.json
+C:\Users\artit\Desktop\Training\DAY_17\Lab_1\obj\Debug\net10.0\Lab_1.dll
+C:\Users\artit\Desktop\Training\DAY_17\Lab_1\obj\Debug\net10.0\refint\Lab_1.dll
+C:\Users\artit\Desktop\Training\DAY_17\Lab_1\obj\Debug\net10.0\Lab_1.pdb
+C:\Users\artit\Desktop\Training\DAY_17\Lab_1\obj\Debug\net10.0\Lab_1.genruntimeconfig.cache
+C:\Users\artit\Desktop\Training\DAY_17\Lab_1\obj\Debug\net10.0\ref\Lab_1.dll

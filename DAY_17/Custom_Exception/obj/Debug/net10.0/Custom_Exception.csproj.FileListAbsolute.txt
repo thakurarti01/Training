@@ -1,0 +1,15 @@
+C:\Users\artit\Desktop\Training\DAY_17\Custom_Exception\bin\Debug\net10.0\Custom_Exception.exe
+C:\Users\artit\Desktop\Training\DAY_17\Custom_Exception\bin\Debug\net10.0\Custom_Exception.deps.json
+C:\Users\artit\Desktop\Training\DAY_17\Custom_Exception\bin\Debug\net10.0\Custom_Exception.runtimeconfig.json
+C:\Users\artit\Desktop\Training\DAY_17\Custom_Exception\bin\Debug\net10.0\Custom_Exception.dll
+C:\Users\artit\Desktop\Training\DAY_17\Custom_Exception\bin\Debug\net10.0\Custom_Exception.pdb
+C:\Users\artit\Desktop\Training\DAY_17\Custom_Exception\obj\Debug\net10.0\Custom_Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artit\Desktop\Training\DAY_17\Custom_Exception\obj\Debug\net10.0\Custom_Exception.AssemblyInfoInputs.cache
+C:\Users\artit\Desktop\Training\DAY_17\Custom_Exception\obj\Debug\net10.0\Custom_Exception.AssemblyInfo.cs
+C:\Users\artit\Desktop\Training\DAY_17\Custom_Exception\obj\Debug\net10.0\Custom_Exception.csproj.CoreCompileInputs.cache
+C:\Users\artit\Desktop\Training\DAY_17\Custom_Exception\obj\Debug\net10.0\Custom_Exception.sourcelink.json
+C:\Users\artit\Desktop\Training\DAY_17\Custom_Exception\obj\Debug\net10.0\Custom_Exception.dll
+C:\Users\artit\Desktop\Training\DAY_17\Custom_Exception\obj\Debug\net10.0\refint\Custom_Exception.dll
+C:\Users\artit\Desktop\Training\DAY_17\Custom_Exception\obj\Debug\net10.0\Custom_Exception.pdb
+C:\Users\artit\Desktop\Training\DAY_17\Custom_Exception\obj\Debug\net10.0\Custom_Exception.genruntimeconfig.cache
+C:\Users\artit\Desktop\Training\DAY_17\Custom_Exception\obj\Debug\net10.0\ref\Custom_Exception.dll
