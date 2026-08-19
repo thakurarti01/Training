@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\artit\\Desktop\\Training\\DAY_18\\Lab_4\\Lab_4.csproj": {}
+    "c:\\Users\\artit\\Desktop\\Training\\DAY_18\\QuickBite\\QuickBite.csproj": {}
   },
   "projects": {
-    "c:\\Users\\artit\\Desktop\\Training\\DAY_18\\Lab_4\\Lab_4.csproj": {
+    "c:\\Users\\artit\\Desktop\\Training\\DAY_18\\QuickBite\\QuickBite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\artit\\Desktop\\Training\\DAY_18\\Lab_4\\Lab_4.csproj",
-        "projectName": "Lab_4",
-        "projectPath": "c:\\Users\\artit\\Desktop\\Training\\DAY_18\\Lab_4\\Lab_4.csproj",
+        "projectUniqueName": "c:\\Users\\artit\\Desktop\\Training\\DAY_18\\QuickBite\\QuickBite.csproj",
+        "projectName": "QuickBite",
+        "projectPath": "c:\\Users\\artit\\Desktop\\Training\\DAY_18\\QuickBite\\QuickBite.csproj",
         "packagesPath": "C:\\Users\\artit\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\artit\\Desktop\\Training\\DAY_18\\Lab_4\\obj\\",
+        "outputPath": "c:\\Users\\artit\\Desktop\\Training\\DAY_18\\QuickBite\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
