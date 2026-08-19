@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\artit\\Desktop\\Training\\DAY_18\\Lab_4\\Lab_4.csproj": {}
+    "C:\\Users\\artit\\Desktop\\Training\\DAY_18\\Lab_4\\Lab_4.csproj": {}
   },
   "projects": {
-    "c:\\Users\\artit\\Desktop\\Training\\DAY_18\\Lab_4\\Lab_4.csproj": {
+    "C:\\Users\\artit\\Desktop\\Training\\DAY_18\\Lab_4\\Lab_4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\artit\\Desktop\\Training\\DAY_18\\Lab_4\\Lab_4.csproj",
+        "projectUniqueName": "C:\\Users\\artit\\Desktop\\Training\\DAY_18\\Lab_4\\Lab_4.csproj",
         "projectName": "Lab_4",
-        "projectPath": "c:\\Users\\artit\\Desktop\\Training\\DAY_18\\Lab_4\\Lab_4.csproj",
+        "projectPath": "C:\\Users\\artit\\Desktop\\Training\\DAY_18\\Lab_4\\Lab_4.csproj",
         "packagesPath": "C:\\Users\\artit\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\artit\\Desktop\\Training\\DAY_18\\Lab_4\\obj\\",
+        "outputPath": "C:\\Users\\artit\\Desktop\\Training\\DAY_18\\Lab_4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
