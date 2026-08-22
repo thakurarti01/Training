@@ -1,0 +1,15 @@
+C:\Users\artit\Desktop\Training\DAY_22\bin\Debug\net10.0\DAY_22.exe
+C:\Users\artit\Desktop\Training\DAY_22\bin\Debug\net10.0\DAY_22.deps.json
+C:\Users\artit\Desktop\Training\DAY_22\bin\Debug\net10.0\DAY_22.runtimeconfig.json
+C:\Users\artit\Desktop\Training\DAY_22\bin\Debug\net10.0\DAY_22.dll
+C:\Users\artit\Desktop\Training\DAY_22\bin\Debug\net10.0\DAY_22.pdb
+C:\Users\artit\Desktop\Training\DAY_22\obj\Debug\net10.0\DAY_22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artit\Desktop\Training\DAY_22\obj\Debug\net10.0\DAY_22.AssemblyInfoInputs.cache
+C:\Users\artit\Desktop\Training\DAY_22\obj\Debug\net10.0\DAY_22.AssemblyInfo.cs
+C:\Users\artit\Desktop\Training\DAY_22\obj\Debug\net10.0\DAY_22.csproj.CoreCompileInputs.cache
+C:\Users\artit\Desktop\Training\DAY_22\obj\Debug\net10.0\DAY_22.sourcelink.json
+C:\Users\artit\Desktop\Training\DAY_22\obj\Debug\net10.0\DAY_22.dll
+C:\Users\artit\Desktop\Training\DAY_22\obj\Debug\net10.0\refint\DAY_22.dll
+C:\Users\artit\Desktop\Training\DAY_22\obj\Debug\net10.0\DAY_22.pdb
+C:\Users\artit\Desktop\Training\DAY_22\obj\Debug\net10.0\DAY_22.genruntimeconfig.cache
+C:\Users\artit\Desktop\Training\DAY_22\obj\Debug\net10.0\ref\DAY_22.dll
